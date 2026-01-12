@@ -1,7 +1,7 @@
-### Hi, I'm liooooo(liooooo29) from NanChang University(China).
+### Hi, I'm liooooo(liooooo29).
 ### Learning and using
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halalala222&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halalala222&theme=dark&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liooooo29&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liooooo29&theme=dark&layout=compact)
 <div><p align="">
   <img src="https://skillicons.dev/icons?i=go,java,ts&theme=dark" />
 </p></div>  
