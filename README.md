@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halalala222&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halalala222&theme=dark&layout=compact)
 <div><p align="">
-  <img src="https://skillicons.dev/icons?i=go,cpp,java,git,ts,docker,mysql,redis,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts&theme=dark" />
 </p></div>  
 <!--
 **halalala222/halalala222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
